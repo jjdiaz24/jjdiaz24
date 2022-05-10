@@ -63,3 +63,9 @@ I am Data Scientist & Machine Leaning passionate <img src="https://media.giphy.c
 
 
 </div>
+
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-jjdiaz24
+
