@@ -15,9 +15,10 @@
   <a href="https://twitter.com/JJDiazBeltran">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
 
+   </a>
    <a <img src="https://komarev.com/ghpvc/?username=your-github-jjdiaz24&style=flat-square&color=blue" alt="">>
+   </a>
 </div>
 
 
