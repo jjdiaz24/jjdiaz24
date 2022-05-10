@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="jaime.diazbeltran@gmail.ocm">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   
   
