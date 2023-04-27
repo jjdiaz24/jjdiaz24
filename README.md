@@ -45,7 +45,7 @@ I am Data Scientist & Machine Leaning passionate <img src="https://media.giphy.c
 
 
 
-- :telescope: I’m working as Director of Machine Learning in a Colombian StartUp focused on logistics.
+- :telescope: I’m working as Project Lead in Meli.
 
 - :seedling: Exploring Technical Content Writing.
 
